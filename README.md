@@ -82,8 +82,8 @@ Three monthly series, **Jan 1982 – Jun 2020 (462 months)**. The layout follows
 ## 🚀 How to run
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/ramnallapati/RAINFALL-TIME-SERIES-FORECASTING.git
+cd RAINFALL-TIME-SERIES-FORECASTING
 python -m venv .venv && source .venv/bin/activate    # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 jupyter notebook Rainfall_Analytics_and_Forecasting.ipynb
@@ -126,8 +126,5 @@ Python · pandas · NumPy · SciPy · statsmodels · scikit-learn · matplotlib 
 ## 👤 Author
 
 **Nallapati Rama Rao**: AI/ML Engineer
-[LinkedIn](#) · [GitHub](#)
+[LinkedIn](#https://www.linkedin.com/in/rama-rao-nallapati-42a659313/) · [GitHub](#https://github.com/ramnallapati)
 
-## 📄 License
-
-MIT. Add a `LICENSE` file if you want to publish under this license.
