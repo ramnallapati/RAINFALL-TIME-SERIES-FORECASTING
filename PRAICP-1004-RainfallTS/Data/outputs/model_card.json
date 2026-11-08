@@ -1,0 +1,23 @@
+{
+  "selected_dhr": {
+    "K": 3,
+    "p": 2,
+    "q": 1
+  },
+  "gbm_params": {
+    "loss": "gamma",
+    "learning_rate": 0.04,
+    "max_iter": 250,
+    "max_depth": 3,
+    "min_samples_leaf": 20,
+    "l2_regularization": 1.0,
+    "random_state": 42
+  },
+  "conformal_log_quantiles": [
+    -1.427709596802265,
+    0.5660741756882295
+  ],
+  "extreme_threshold_mm": 94.66000000000001,
+  "mase_scale": 112.7314465408805,
+  "seed": 42
+}
